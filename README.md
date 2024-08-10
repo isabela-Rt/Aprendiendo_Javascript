@@ -9,17 +9,17 @@ Este repositorio esta enfocado a aprender el lenguaje de programación JavaScrip
 
 ### Creación de JavaScript:
 
-#### Creador: JavaScript fue creado por Brendan Eich en 1995 mientras trabajaba en Netscape Communications Corporation.
+* Creador: JavaScript fue creado por Brendan Eich en 1995 mientras trabajaba en Netscape Communications Corporation.
 
-#### Motivo: El objetivo era crear un lenguaje de scripting que pudiera ejecutarse en el navegador para hacer las páginas web más dinámicas e interactivas. La idea era ofrecer un lenguaje fácil de usar que permitiera a los desarrolladores añadir funcionalidad directamente en las páginas web sin necesidad de conocimientos profundos en programación.
+* Motivo: El objetivo era crear un lenguaje de scripting que pudiera ejecutarse en el navegador para hacer las páginas web más dinámicas e interactivas. La idea era ofrecer un lenguaje fácil de usar que permitiera a los desarrolladores añadir funcionalidad directamente en las páginas web sin necesidad de conocimientos profundos en programación.
 
 ### Desarrollo y nombres previos:
 
-* #### Mocha: Inicialmente, Brendan Eich llamó al lenguaje "Mocha" durante su desarrollo.
+*  Mocha: Inicialmente, Brendan Eich llamó al lenguaje "Mocha" durante su desarrollo.
 
-* ####  LiveScript: Antes del lanzamiento oficial, el lenguaje fue renombrado a "LiveScript". El nombre "LiveScript" fue elegido para reflejar la capacidad del lenguaje de hacer que las páginas web fueran "vivas" y dinámicas, en contraste con las páginas estáticas de HTML. "Live" se refiere a la idea de que el código podía ejecutarse directamente en el navegador, permitiendo una experiencia de usuario interactiva sin necesidad de recargar la página.
+*   LiveScript: Antes del lanzamiento oficial, el lenguaje fue renombrado a "LiveScript". El nombre "LiveScript" fue elegido para reflejar la capacidad del lenguaje de hacer que las páginas web fueran "vivas" y dinámicas, en contraste con las páginas estáticas de HTML. "Live" se refiere a la idea de que el código podía ejecutarse directamente en el navegador, permitiendo una experiencia de usuario interactiva sin necesidad de recargar la página.
 
-* #### JavaScript: Finalmente, en diciembre de 1995, fue rebautizado como "JavaScript". Este cambio se hizo como parte de un acuerdo de marketing entre Netscape y Sun Microsystems, ya que el lenguaje Java era muy popular en ese momento, y el nombre "JavaScript" ayudaría a atraer más atención.
+*  JavaScript: Finalmente, en diciembre de 1995, fue rebautizado como "JavaScript". Este cambio se hizo como parte de un acuerdo de marketing entre Netscape y Sun Microsystems, ya que el lenguaje Java era muy popular en ese momento, y el nombre "JavaScript" ayudaría a atraer más atención.
 
 ### Fechas clave en el desarrollo:
 
