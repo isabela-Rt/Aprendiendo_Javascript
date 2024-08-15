@@ -33,16 +33,23 @@ Este repositorio esta enfocado a aprender el lenguaje de programación JavaScrip
 
 
 ## ¿Que es JavaScript?
-es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos,​ basado en prototipos, imperativo, débilmente tipado y dinámico.
+es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos,​ basado en prototipos, imperativo,dinámico y débilmente tipado osea no es necesario especificar o indicar el tipo de dato.
 
 ### ¿Que significa que sea interpretado?
-significa que el código JavaScript no necesita ser compilado antes de ser ejecutado. En lugar de eso, un intérprete (como el que tienen los navegadores web) lee el código JavaScript y lo ejecuta directamente, líneapor línea, mientras el programa se está ejecutando.
+significa que el código JavaScript no necesita ser compilado antes de ser ejecutado. En lugar de eso, un intérprete (como el que tienen los navegadores web) lee el código JavaScript y lo ejecuta directamente, líneapor línea, mientras el programa se está ejecutando. Osea el codigo se va ejecutando a medida de que se vaya necesitando.
 
 ### ¿Que es [ECMAScript](https://es.wikipedia.org/wiki/ECMAScript)?
 es un estándar que define cómo debe funcionar el lenguaje JavaScript. Es como un conjunto de reglas y características que los desarrolladores deben seguir para que los diferentes navegadores y entornos puedaninterpretar el código JavaScript de la misma manera. ECMAScript es el "molde" que sigue JavaScript, y cada nueva versión de ECMAScript suele introducir mejoras y nuevas funciones en JavaScript.
 
 
 
-## Variables
+## Codigo
 
-# Sitios para Aprender
+* [00 - Hola Mundo](./Basico/00-helloworld.js)
+* [01 - Variables](./Basico/01-variables.js)
+
+
+## Sitios para Aprender
+
+* [Modzilla](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* [JavasSript Info](https://javascript.info/)
