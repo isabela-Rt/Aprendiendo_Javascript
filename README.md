@@ -52,9 +52,9 @@ es un estándar que define cómo debe funcionar el lenguaje JavaScript. Es como 
 
 ## Ejercisios
 
-* [00 - Ejercicios](./Ejercisios/00-ejercisio.txt)
-* [01 - Ejercicios](./Ejercisios/01-ejercisio.txt)
-* [02 - Ejercicios Operadores](./Ejercisios/02-ejercisio-operadores.txt)
+* [00 - Ejercicios](./Ejercisios/00-Ejercicios.js)
+* [01 - Ejercicios](./Ejercisios/01-Ejercicios.js)
+* [02 - Ejercicios Operadores](./Ejercisios/02-Ejercicios-operadores.js)
 
 
 ## Sitios para Aprender
