@@ -2,4 +2,4 @@
 
 //El dia de hoy toca realizar el primer hola mundo!
 
-//Recuerda que el ejercisio resuelto debe estar en tu carpeta propia que ya ha sido creada 
+//Recuerda que el ejercicio resuelto debe estar en tu carpeta propia que ya ha sido creada 
