@@ -47,6 +47,14 @@ es un estándar que define cómo debe funcionar el lenguaje JavaScript. Es como 
 
 * [00 - Hola Mundo](./Basico/00-helloworld.js)
 * [01 - Variables](./Basico/01-variables.js)
+* [02 - Tipos de Datos](./Basico/02-tiposDatos.js)
+* [03- Operadores](./Basico/03-operadores.js)
+
+## Ejercisios
+
+* [00 - Ejercicios](./Ejercisios/00-ejercisio.txt)
+* [01 - Ejercicios](./Ejercisios/01-ejercisio.txt)
+* [02 - Ejercicios Operadores](./Ejercisios/02-ejercisio-operadores.txt)
 
 
 ## Sitios para Aprender
