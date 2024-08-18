@@ -44,6 +44,7 @@ Ejemplo: A ^ B es true si A es true o B es true, pero no ambos.
 Truco visual: 🟢🔴 = 🟢 (Encendido) / 🟢🟢 = 🔴 (Apagado)
 
 <br>
+<br>
 
 | Operador     | Descripción | Ejemplo Cotidiano |
 |--------------|-------------|-------------------|
